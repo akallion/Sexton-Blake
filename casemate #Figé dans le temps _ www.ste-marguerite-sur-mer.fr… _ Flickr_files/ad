@@ -1,0 +1,42 @@
+YUI.Env.JSONP.yui_3_16_0_1_1475149351236_1030({
+   "ads" : [
+      {
+         "beacon" : "https://beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=EAIy2hIGIS_Rk5AbdQ1Oh35uUxcVT6bx8RU_MZq.PdSkrmyT55xkhPfv.DVdljvdCLwtfblX7sd4Lwdv8ssxpRF2DwZeFfVDMhE3DUtBDPNv9I66BCOCBorCx7RwPR.tWJt0hhq9lFFcnRsOPk7Ad_3bs1j6GPffsdm_0aAr9O7dnV6I9U7BJSPLY3ufeGRBgU8ODFqYUSFZZbpGI2FgsItt43G6Rrff4pUPkUiFbrcAZV3_aFxD1JPGruSOwCODHH4ayv2cB22ZoUOzYmIHUwC2h6CI_emhcUuTkq9veXnxNmU3hlNMhVOX8VZ51Q05aHh1KA8cnx24bUyQ6ZH3ifv3dmM5UzMH5GD2zt2CKFaelE1eCFiGxw8bwtPzRUFYo.hO4WyR2sTPo3cZgWjpO17aBBTa94A-&ap=$(AD_POSN)",
+         "bidUSD" : 0.050,
+         "ccCode" : "STRM",
+         "clickProbability" : 0.006488850565841433,
+         "creativeId" : 32210597016,
+         "displayUrl" : "http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/895c18850bdbfde49eff4ae3389793f9.jpeg",
+         "index" : 1,
+         "landingPageUrl" : "http://hipandagadgets.com/products/hd2000-handheld-camera-stabilizer-adjustable-mounts-counter-weights-53-78-5cm-5-8kg-weight-bearing-capability.html",
+         "normalizedEcpm" : 0.3244425282920717,
+         "rsc" : 6.423817922041053e-08,
+         "sponsoredBy" : "HiPandaGadgets",
+         "tag" : "{\"ad_feedback_beacon\":\"https://us.af.beap.bc.yahoo.com/af?bv=1.0.0&bs=(15tu2p689(gid$cedcb646-8639-11e6-86bc-10604ba93300-7ff0e1d33700,st$1475149352336000,li$0,cr$32210597016,dmn$hipandagadgets.com,srv$3,exp$1475156552336000,ct$27,v$1.0,adv$1442576,pbid$1,seid$4964388))&r=1475149352336&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"1442576\",\"callToAction\":\"Buy Now\",\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=_K5DxV4GIS_tmWtB81ZICIlGJsGpAThpbQ25LJnQd6PXIrukJ0YSF4XRR3f88Ta7.CliVY2XvV.0bTpnZql.8UwcEVP1yTJvqGV.ibCrvalC8570tPYv01YuidJU71J1CbvSbY6n7HwwZqrDbeDV3xKZ9aCTaRXQSXHPfqARg7EKdDKw8Ck1CpUJio.MLxs5VOnCOeqrE1qzeVYilY2_R7VKwEAcgcen1hN3G1tiGkcRuiyqzsWqyuTwyRoJ5.__kPVONzcym8UztzkdR14pK2rm9j7G.Hu4tURQrAgAmRGjivJycJMWA.lFTNdvQkYhEkg6De5phxl4kyBePThgf_OWVaP2MvtyECRTdS_qKYPRrfJvD1wlY48742PtpvACXtf3tlNo5Wx2.YjcxDLR_ly_YpNu35ki.WxlGo7wc9t0cKvFpCMYTAyeh8vu9iZp0ffzXyt3dtPSAsaQsmrIW851KOMavApFulJZG5rEbKqgjSvCEks4kpsHrOQw.5rPqLZOLr03Ce4M2XqrbEWzWQQRCoZ2uifWkL3gF1tXktJeuqVr6m_bV.MnNaczB51tH2ycP.q7l59xdO2NxVZltQJC73giXuGk_KjueXgSolCXtjZDPOQOBw--%26lp=\",\"headline\":\"HD2000 Handheld Camera Stabilizer\",\"hqImage\":\"https://s.yimg.com/av/moneyball/ads/1469146723765-9672.jpg\",\"hqImageHeight\":627,\"hqImageWidth\":1200,\"image\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/895c18850bdbfde49eff4ae3389793f9.jpeg\",\"imageHeight\":82,\"imageWidth\":82,\"landingUrl\":\"http://hipandagadgets.com/products/hd2000-handheld-camera-stabilizer-adjustable-mounts-counter-weights-53-78-5cm-5-8kg-weight-bearing-capability.html\",\"objective\":\"VISIT_WEB\",\"origImg\":\"https://s.yimg.com/av/moneyball/ads/1469146773308-7629.jpg\",\"origImgHeight\":627,\"origImgWidth\":627,\"secHqImage\":\"https://s.yimg.com/av/moneyball/ads/1469146723765-9672.jpg\",\"secImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE/82x82/895c18850bdbfde49eff4ae3389793f9.jpeg\",\"secOrigImg\":\"https://s.yimg.com/av/moneyball/ads/1469146773308-7629.jpg\",\"source\":\"HiPandaGadgets\",\"sponsoredByLabel\":\"Sponsored\",\"summary\":\"Tired of shaky footage that make your videos unwatchable? All you need is the right gear. Improve your filming with Stabilizer now with FREE shipping.\",\"uuid\":\"32210597016\"}"
+      },
+      {
+         "beacon" : "https://beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=0TCee7EGIS_.vhMrTzG3UfS.vaPf._GiBkrvQ3Xl_3yQryJ.SSjU.mawO8xjQoJufLxFI3IFN.TtycO_Azc3CQa1PESs4hv2bB67C4xWuckdKmkIN6GMxwg2f7XMluGkqwJhp7pQyXIf.LKV.IKq1JDJpT9oELw8a3DEggPS_PUwBBkrQXsiG3Gh5a0T6ospUmyVj0orC9Lk5e1l6yZqPC6N.aa.1p6rHZm7HOweZOWL3s06zvyFZFJSrW0TaF6YyGFkI5dYb0ldjoQ5JcXgJY9PFWow3PNviFSDgyQofkO8TLexzLtZ_jNGJtt0hS5zvH1OoVEQyyU8MgF_C0iDUlA0HAANVVZLfvPKtx_B8KjnX89B8XVjT03ZkoHhttpV4UK6R6YUc64nWncdj64w2dStxBQT&ap=$(AD_POSN)",
+         "bidUSD" : 0.10,
+         "ccCode" : "STRM",
+         "clickProbability" : 0.0,
+         "creativeId" : 32431791971,
+         "displayUrl" : "http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/73a8b16fee8b2d3a846af4777202c842.jpeg",
+         "index" : 2,
+         "landingPageUrl" : "http://www.advancedpctools.com/marim/defaultm.asp?langcode=fi",
+         "rsc" : 2.312378910573898e-08,
+         "sponsoredBy" : "Advanced System Care",
+         "tag" : "{\"ad_feedback_beacon\":\"https://us.af.beap.bc.yahoo.com/af?bv=1.0.0&bs=(15n0q39ma(gid$cedcb646-8639-11e6-86bc-10604ba93300-7ff0e1d33700,st$1475149352336000,li$0,cr$32431791971,dmn$c32431791971,srv$3,exp$1475156552336000,ct$27,v$1.0,adv$1484613,pbid$1,seid$4964388))&r=1475149352336&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"1484613\",\"callToAction\":\"Learn more\",\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=AzsWNJsGIS.qDaBW6PajAq4L0CyclMUZrqUyW.a39tw6Y7cXQ.6wbxZOAK06IGJJfhUtFdtRkLKiIhHn4rqtMm4SUDRY8xp4SxIJfosvL31hfphclaMZTbnCw77uwkY0uCl7EapG3N2GxAnDu.1H1aV3QmzxxQpOq2BS_0XmDVP8wqeMbCt7HuOwEHCWgqztmWFHJ3OyLZLnusI7WOc8J3bLdxYVL2QgeWaKQ08NXZ51QrvzwjuCK1w_f3cZyFpngCfRNoItVFhItzFBUd6UTKDU9yBcmB1Vax1MndLxGEaUzpV0TSR4H2Sv7idoo0Huh1H4CqZ8Df2O0jz9HPTFai9FQL1Cs6A__9Fh_1Qi3rM9nI9K57aPcSAmceK8BcOngSpeMrW616WyjwRtXySsIU49QBtKohvzuSWNv_reRF58S9W609tktPpt4PJKD0dduiKzb4KC9dMfDX9poDP3CGO5AO2IwZAsFp1Zgb8vY12a.zchiYgW5BiYp4BXGg--%26lp=\",\"headline\":\"You don't need a new computer!\",\"hqImage\":\"https://s.yimg.com/av/moneyball/ads/1475056237403-2642.jpg\",\"hqImageHeight\":627,\"hqImageWidth\":1200,\"image\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/73a8b16fee8b2d3a846af4777202c842.jpeg\",\"imageHeight\":82,\"imageWidth\":82,\"landingUrl\":\"http://www.advancedpctools.com/marim/defaultm.asp?langcode=fi\",\"objective\":\"VISIT_WEB\",\"origImg\":\"https://s.yimg.com/av/moneyball/ads/1475056238499-9553.jpg\",\"origImgHeight\":627,\"origImgWidth\":627,\"secHqImage\":\"https://s.yimg.com/av/moneyball/ads/1475056237403-2642.jpg\",\"secImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE/82x82/73a8b16fee8b2d3a846af4777202c842.jpeg\",\"secOrigImg\":\"https://s.yimg.com/av/moneyball/ads/1475056238499-9553.jpg\",\"source\":\"Advanced System Care\",\"sponsoredByLabel\":\"Sponsored\",\"summary\":\"Is your computer running slow? Don't buy a new PC or call a computer repair company. This \\\"3-click fix\\\" is saving people thousands of dollars.\",\"uuid\":\"32431791971\"}"
+      }
+   ],
+   "adsRequested" : 8,
+   "adserverLatency" : 9.000000000000000e-06,
+   "section" : {
+      "id" : 4964388
+   },
+   "serverIp" : "fe67.cbs.cb.bf1.yahoo.com",
+   "status" : "0",
+   "totalAds" : 2,
+   "totalLatency" : 0.0189150,
+   "userCountry" : "FI",
+   "version" : "2"
+})
